@@ -1,52 +1,46 @@
-## Olá! Eu sou Pedro Melo Dev.
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,100:1192fa&height=200&section=header&text=Pedro%20%7C%20Desenvolvedor%20FullStack&fontColor=ffffff&fontSize=35&fontAlign=center&fontAlignY=40)
-
-<p align="center">
-  <a href="https://github.com/pedroseunome">
-    <img src="https://img.shields.io/github/followers/pedroseunome?label=Seguidores&style=social" alt="GitHub followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=pedroseunome&style=flat-square&color=blue" alt="profile views"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFA500&center=true&vCenter=true&lines=Desenvolvedor+FullStack;Apaixonado+por+Tecnologia;Estudante+de+ADS;"/>
+</div>
 
 ---
 
-### 👋 Sobre mim
+🎯 **Sobre mim**
 
-Sou Pedro, desenvolvedor FullStack em formação com foco em criar soluções para sistemas, sites e automações. Estudante de Análise e Desenvolvimento de Sistemas na UNIFG, apaixonado por transformar ideias em projetos reais. 
-
----
-
-### 💻 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Busco transformar ideias em soluções digitais reais com criatividade, organização e foco em resultados. Atualmente estou aprendendo Python, HTML, CSS e JavaScript, e desenvolvendo projetos práticos para ampliar meu portfólio.
 
 ---
 
-### 📈 Estatísticas do GitHub
+🛠 **Tecnologias e Ferramentas**
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pedroseunome&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroseunome&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+</div>
 
 ---
 
-### 📫 Contato
+📈 **Atualmente estudando:**
+- Python
+- HTML e CSS
+- JavaScript
+- Lógica de Programação
+- Versionamento com Git e GitHub
 
-- 📧 Email: pedro@email.com.br
-- 📱 Instagram: [@evolution.agenciadigital](https://instagram.com/evolution.agenciadigital)
-- 🔗 LinkedIn: [linkedin.com/in/pedroseunome](https://linkedin.com/in/pedroseunome)
+---
+
+📬 **Contato**
+
+- 📱 WhatsApp: [Clique para conversar](https://wa.me/5581981881666)
+- 💼 LinkedIn: [www.linkedin.com/in/devper](https://www.linkedin.com/in/devper)
+- 📧 Email: [pedromelo.ti2005@gmail.com](mailto:pedromelo.ti2005@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+evolu%C3%A7%C3%A3o+%F0%9F%9A%80;Vamos+criar+juntos%21"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA500,100:0000FF&height=100&section=footer"/>
 </div>
