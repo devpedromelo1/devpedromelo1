@@ -33,29 +33,6 @@ Tenho como prioridade a organização, eficiência e entrega de valor em cada pr
 
 ---
 
-## 🛠️ Outras Competências
-
-* UX Design
-* Modelagem de Software
-* Levantamento de Requisitos de Sistema
-* Lógica de Programação
-* Desenvolvimento Web
-* Noções de Desenvolvimento Mobile
-* Versionamento de Código
-* Noções de Segurança da Informação
-* Organização e Gestão de Tarefas
-* Trabalho em Equipe e Comunicação Efetiva
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
-</p>
----
-
 ## 📫 Contato
 
 Sinta-se à vontade para entrar em contato:
