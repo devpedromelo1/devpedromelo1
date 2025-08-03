@@ -17,7 +17,7 @@
 
 ## 👋 Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas pela UNIFG, com experiência em atendimento ao cliente e criação de artes personalizadas. Essas vivências fortaleceram minha comunicação, criatividade, capacidade de resolução de problemas e foco em resultados.
+Análista e Desenvolvedo de Sistemas pela UNIFG, com experiência em atendimento ao cliente e criação de artes personalizadas. Essas vivências fortaleceram minha comunicação, criatividade, capacidade de resolução de problemas e foco em resultados.
 
 Tenho como prioridade a organização, eficiência e entrega de valor em cada projeto. Possuo conhecimentos em HTML, CSS, JavaScript e Python, além de utilizar ferramentas como VS Code, Git, GitHub, Figma, CorelDRAW e Illustrator. Estou em constante desenvolvimento, aplicando meus aprendizados em projetos práticos voltados à área de tecnologia e buscando oportunidades para ingressar profissionalmente na área de TI.
 
